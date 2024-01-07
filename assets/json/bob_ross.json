@@ -1,0 +1,2823 @@
+[
+  {
+    "painting_index": 282,
+    "img_src": "https://www.twoinchbrush.com/images/painting282.png",
+    "painting_title": "A Walk in the Woods",
+    "num_colors": 8,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 283,
+    "img_src": "https://www.twoinchbrush.com/images/painting283.png",
+    "painting_title": "Mt. McKinley",
+    "num_colors": 8,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 284,
+    "img_src": "https://www.twoinchbrush.com/images/painting284.png",
+    "painting_title": "Ebony Sunset",
+    "num_colors": 9,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 285,
+    "img_src": "https://www.twoinchbrush.com/images/painting285.png",
+    "painting_title": "Winter Mist",
+    "num_colors": 3,
+    "colors": "['Prussian Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 286,
+    "img_src": "https://www.twoinchbrush.com/images/painting286.png",
+    "painting_title": "Quiet Stream",
+    "num_colors": 8,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 287,
+    "img_src": "https://www.twoinchbrush.com/images/painting287.png",
+    "painting_title": "Winter Moon",
+    "num_colors": 4,
+    "colors": "['Black Gesso', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 288,
+    "img_src": "https://www.twoinchbrush.com/images/painting288.png",
+    "painting_title": "Autumn Mountain",
+    "num_colors": 8,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 289,
+    "img_src": "https://www.twoinchbrush.com/images/painting289.png",
+    "painting_title": "Peaceful Valley",
+    "num_colors": 8,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 290,
+    "img_src": "https://www.twoinchbrush.com/images/painting290.png",
+    "painting_title": "Seascape",
+    "num_colors": 8,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 291,
+    "img_src": "https://www.twoinchbrush.com/images/painting291.png",
+    "painting_title": "Mountain Lake",
+    "num_colors": 8,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 292,
+    "img_src": "https://www.twoinchbrush.com/images/painting292.png",
+    "painting_title": "Winter Glow",
+    "num_colors": 8,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 293,
+    "img_src": "https://www.twoinchbrush.com/images/painting293.png",
+    "painting_title": "Snow Fall",
+    "num_colors": 4,
+    "colors": "['Alizarin Crimson', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 294,
+    "img_src": "https://www.twoinchbrush.com/images/painting294.png",
+    "painting_title": "Final Reflections",
+    "num_colors": 8,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 269,
+    "img_src": "https://www.twoinchbrush.com/images/painting269.png",
+    "painting_title": "Meadow Lake",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 270,
+    "img_src": "https://www.twoinchbrush.com/images/painting270.png",
+    "painting_title": "Winter Sun",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 271,
+    "img_src": "https://www.twoinchbrush.com/images/painting271.png",
+    "painting_title": "Ebony Sea",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 272,
+    "img_src": "https://www.twoinchbrush.com/images/painting272.png",
+    "painting_title": "Shades of Grey",
+    "num_colors": 3,
+    "colors": "['Prussian Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 273,
+    "img_src": "https://www.twoinchbrush.com/images/painting273.png",
+    "painting_title": "Autumn Splendor",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 274,
+    "img_src": "https://www.twoinchbrush.com/images/painting274.png",
+    "painting_title": "Black River",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 275,
+    "img_src": "https://www.twoinchbrush.com/images/painting275.png",
+    "painting_title": "Brown Mountain",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 276,
+    "img_src": "https://www.twoinchbrush.com/images/painting276.png",
+    "painting_title": "Reflections",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 277,
+    "img_src": "https://www.twoinchbrush.com/images/painting277.png",
+    "painting_title": "Black and White Seascape",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 278,
+    "img_src": "https://www.twoinchbrush.com/images/painting278.png",
+    "painting_title": "Lazy River",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 279,
+    "img_src": "https://www.twoinchbrush.com/images/painting279.png",
+    "painting_title": "Black Waterfall",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 280,
+    "img_src": "https://www.twoinchbrush.com/images/painting280.png",
+    "painting_title": "Mountain Waterfall",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 281,
+    "img_src": "https://www.twoinchbrush.com/images/painting281.png",
+    "painting_title": "Final Grace",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 256,
+    "img_src": "https://www.twoinchbrush.com/images/painting256.png",
+    "painting_title": "Mountain Retreat",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 257,
+    "img_src": "https://www.twoinchbrush.com/images/painting257.png",
+    "painting_title": "Blue Moon",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 258,
+    "img_src": "https://www.twoinchbrush.com/images/painting258.png",
+    "painting_title": "Bubbling Stream",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 259,
+    "img_src": "https://www.twoinchbrush.com/images/painting259.png",
+    "painting_title": "Winter Night",
+    "num_colors": 7,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Liquid Black', 'Phthalo Green\\r\\n', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 260,
+    "img_src": "https://www.twoinchbrush.com/images/painting260.png",
+    "painting_title": "Distant Hills",
+    "num_colors": 7,
+    "colors": "['Alizarin Crimson', 'Burnt Umber', 'Cadmium Yellow', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 261,
+    "img_src": "https://www.twoinchbrush.com/images/painting261.png",
+    "painting_title": "Covered Bridge",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 262,
+    "img_src": "https://www.twoinchbrush.com/images/painting262.png",
+    "painting_title": "Quiet Inlet",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Burnt Umber', 'Cadmium Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 263,
+    "img_src": "https://www.twoinchbrush.com/images/painting263.png",
+    "painting_title": "Night Light",
+    "num_colors": 9,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Burnt Umber', 'Cadmium Yellow', 'Phthalo Green\\r\\n', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 264,
+    "img_src": "https://www.twoinchbrush.com/images/painting264.png",
+    "painting_title": "The Old Mill",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 265,
+    "img_src": "https://www.twoinchbrush.com/images/painting265.png",
+    "painting_title": "Campfire",
+    "num_colors": 8,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 266,
+    "img_src": "https://www.twoinchbrush.com/images/painting266.png",
+    "painting_title": "Rustic Barn",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 267,
+    "img_src": "https://www.twoinchbrush.com/images/painting267.png",
+    "painting_title": "Hidden Lake",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 268,
+    "img_src": "https://www.twoinchbrush.com/images/painting268.png",
+    "painting_title": "Peaceful Waters",
+    "num_colors": 9,
+    "colors": "['Alizarin Crimson', 'Cadmium Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 243,
+    "img_src": "https://www.twoinchbrush.com/images/painting243.png",
+    "painting_title": "Purple Splendor",
+    "num_colors": 4,
+    "colors": "['Alizarin Crimson', 'Phthalo Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 244,
+    "img_src": "https://www.twoinchbrush.com/images/painting244.png",
+    "painting_title": "Tranquil Valley",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 245,
+    "img_src": "https://www.twoinchbrush.com/images/painting245.png",
+    "painting_title": "Majestic Mountains",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 246,
+    "img_src": "https://www.twoinchbrush.com/images/painting246.png",
+    "painting_title": "Winter Sawscape",
+    "num_colors": 7,
+    "colors": "['Black Gesso', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Titanium White']"
+  },
+  {
+    "painting_index": 247,
+    "img_src": "https://www.twoinchbrush.com/images/painting247.png",
+    "painting_title": "Evening Seascape",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 248,
+    "img_src": "https://www.twoinchbrush.com/images/painting248.png",
+    "painting_title": "Warm Summer Day",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 249,
+    "img_src": "https://www.twoinchbrush.com/images/painting249.png",
+    "painting_title": "Cabin in the Woods",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 250,
+    "img_src": "https://www.twoinchbrush.com/images/painting250.png",
+    "painting_title": "Wetlands",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 251,
+    "img_src": "https://www.twoinchbrush.com/images/painting251.png",
+    "painting_title": "Cool Waters",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 252,
+    "img_src": "https://www.twoinchbrush.com/images/painting252.png",
+    "painting_title": "Quiet Woods",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 253,
+    "img_src": "https://www.twoinchbrush.com/images/painting253.png",
+    "painting_title": "Northwest Majesty",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Liquid Black', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 254,
+    "img_src": "https://www.twoinchbrush.com/images/painting254.png",
+    "painting_title": "Autumn Days",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 255,
+    "img_src": "https://www.twoinchbrush.com/images/painting255.png",
+    "painting_title": "Mountain Challenge",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 230,
+    "img_src": "https://www.twoinchbrush.com/images/painting230.png",
+    "painting_title": "Mountain Waterfall",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 231,
+    "img_src": "https://www.twoinchbrush.com/images/painting231.png",
+    "painting_title": "Twilight Meadow",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 232,
+    "img_src": "https://www.twoinchbrush.com/images/painting232.png",
+    "painting_title": "Mountain Blossoms",
+    "num_colors": 5,
+    "colors": "['Alizarin Crimson', 'Liquid Black', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Titanium White']"
+  },
+  {
+    "painting_index": 233,
+    "img_src": "https://www.twoinchbrush.com/images/painting233.png",
+    "painting_title": "Winter Stillness",
+    "num_colors": 7,
+    "colors": "['Alizarin Crimson', 'Burnt Umber', 'Indian Yellow', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 234,
+    "img_src": "https://www.twoinchbrush.com/images/painting234.png",
+    "painting_title": "Quiet Pond",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 235,
+    "img_src": "https://www.twoinchbrush.com/images/painting235.png",
+    "painting_title": "Ocean Sunrise",
+    "num_colors": 6,
+    "colors": "['Alizarin Crimson', 'Indian Yellow', 'Liquid Black', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 236,
+    "img_src": "https://www.twoinchbrush.com/images/painting236.png",
+    "painting_title": "Bubbling Brook",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 237,
+    "img_src": "https://www.twoinchbrush.com/images/painting237.png",
+    "painting_title": "Arizona Splendor",
+    "num_colors": 9,
+    "colors": "['Alizarin Crimson', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 238,
+    "img_src": "https://www.twoinchbrush.com/images/painting238.png",
+    "painting_title": "Anatomy of a Wave",
+    "num_colors": 6,
+    "colors": "['Alizarin Crimson', 'Cadmium Yellow', 'Liquid Clear', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Titanium White']"
+  },
+  {
+    "painting_index": 239,
+    "img_src": "https://www.twoinchbrush.com/images/painting239.png",
+    "painting_title": "The Windmill",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Burnt Umber', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 240,
+    "img_src": "https://www.twoinchbrush.com/images/painting240.png",
+    "painting_title": "Autumn Glory",
+    "num_colors": 8,
+    "colors": "['Alizarin Crimson', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 241,
+    "img_src": "https://www.twoinchbrush.com/images/painting241.png",
+    "painting_title": "Indian Girl",
+    "num_colors": 5,
+    "colors": "['Bright Red', 'Burnt Umber', 'Indian Yellow', 'Prussian Blue', 'Titanium White']"
+  },
+  {
+    "painting_index": 242,
+    "img_src": "https://www.twoinchbrush.com/images/painting242.png",
+    "painting_title": "Meadow Stream",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 217,
+    "img_src": "https://www.twoinchbrush.com/images/painting217.png",
+    "painting_title": "Blue River",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 218,
+    "img_src": "https://www.twoinchbrush.com/images/painting218.png",
+    "painting_title": "Nature's Edge",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 219,
+    "img_src": "https://www.twoinchbrush.com/images/painting219.png",
+    "painting_title": "Morning Mist",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 220,
+    "img_src": "https://www.twoinchbrush.com/images/painting220.png",
+    "painting_title": "Whispering Stream",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 221,
+    "img_src": "https://www.twoinchbrush.com/images/painting221.png",
+    "painting_title": "Secluded Forest",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 222,
+    "img_src": "https://www.twoinchbrush.com/images/painting222.png",
+    "painting_title": "Snow Trail",
+    "num_colors": 8,
+    "colors": "['Alizarin Crimson', 'Burnt Umber', 'Cadmium Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 223,
+    "img_src": "https://www.twoinchbrush.com/images/painting223.png",
+    "painting_title": "Arctic Beauty",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 224,
+    "img_src": "https://www.twoinchbrush.com/images/painting224.png",
+    "painting_title": "Horizons West",
+    "num_colors": 7,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Indian Yellow', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 225,
+    "img_src": "https://www.twoinchbrush.com/images/painting225.png",
+    "painting_title": "High Chateau",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 226,
+    "img_src": "https://www.twoinchbrush.com/images/painting226.png",
+    "painting_title": "Country Life",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 227,
+    "img_src": "https://www.twoinchbrush.com/images/painting227.png",
+    "painting_title": "Western Expanse",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 228,
+    "img_src": "https://www.twoinchbrush.com/images/painting228.png",
+    "painting_title": "Marshlands",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 229,
+    "img_src": "https://www.twoinchbrush.com/images/painting229.png",
+    "painting_title": "Blaze of Color",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Burnt Umber', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 203,
+    "img_src": "https://www.twoinchbrush.com/images/painting203.png",
+    "painting_title": "Winter Cabin",
+    "num_colors": 6,
+    "colors": "['Bright Red', 'Dark Sienna', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 204,
+    "img_src": "https://www.twoinchbrush.com/images/painting204.png",
+    "painting_title": "Secluded Lake",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 205,
+    "img_src": "https://www.twoinchbrush.com/images/painting205.png",
+    "painting_title": "Evergreens at Sunset",
+    "num_colors": 7,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Sap Green', 'Titanium White']"
+  },
+  {
+    "painting_index": 206,
+    "img_src": "https://www.twoinchbrush.com/images/painting206.png",
+    "painting_title": "Mountain Cabin",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 208,
+    "img_src": "https://www.twoinchbrush.com/images/painting208.png",
+    "painting_title": "Portrait of Sally",
+    "num_colors": 8,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Phthalo Blue', 'Titanium White', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 209,
+    "img_src": "https://www.twoinchbrush.com/images/painting209.png",
+    "painting_title": "Misty Waterfall",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 210,
+    "img_src": "https://www.twoinchbrush.com/images/painting210.png",
+    "painting_title": "Barn at Sunset",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 211,
+    "img_src": "https://www.twoinchbrush.com/images/painting211.png",
+    "painting_title": "Mountain Splendor",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 212,
+    "img_src": "https://www.twoinchbrush.com/images/painting212.png",
+    "painting_title": "Lake by Mountain",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 213,
+    "img_src": "https://www.twoinchbrush.com/images/painting213.png",
+    "painting_title": "Mountain Glory",
+    "num_colors": 11,
+    "colors": "['Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 214,
+    "img_src": "https://www.twoinchbrush.com/images/painting214.png",
+    "painting_title": "Grey Winter",
+    "num_colors": 3,
+    "colors": "['Alizarin Crimson', 'Midnight Black\\r\\n\\r\\n', 'Titanium White']"
+  },
+  {
+    "painting_index": 215,
+    "img_src": "https://www.twoinchbrush.com/images/painting215.png",
+    "painting_title": "Dock Scene",
+    "num_colors": 9,
+    "colors": "['Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 216,
+    "img_src": "https://www.twoinchbrush.com/images/painting216.png",
+    "painting_title": "Dark Waterfall",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Black', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 190,
+    "img_src": "https://www.twoinchbrush.com/images/painting190.png",
+    "painting_title": "Misty Rolling Hills",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 191,
+    "img_src": "https://www.twoinchbrush.com/images/painting191.png",
+    "painting_title": "Lakeside Cabin",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 192,
+    "img_src": "https://www.twoinchbrush.com/images/painting192.png",
+    "painting_title": "Warm Winter Day",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 193,
+    "img_src": "https://www.twoinchbrush.com/images/painting193.png",
+    "painting_title": "Waterside Way",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 194,
+    "img_src": "https://www.twoinchbrush.com/images/painting194.png",
+    "painting_title": "Hunter's Haven",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 195,
+    "img_src": "https://www.twoinchbrush.com/images/painting195.png",
+    "painting_title": "Bubbling Mountain Brook",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 196,
+    "img_src": "https://www.twoinchbrush.com/images/painting196.png",
+    "painting_title": "Winter Hideaway",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 197,
+    "img_src": "https://www.twoinchbrush.com/images/painting197.png",
+    "painting_title": "Foot of the Mountain",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 198,
+    "img_src": "https://www.twoinchbrush.com/images/painting198.png",
+    "painting_title": "Majestic Pine",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 199,
+    "img_src": "https://www.twoinchbrush.com/images/painting199.png",
+    "painting_title": "Cactus at Sunset",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 200,
+    "img_src": "https://www.twoinchbrush.com/images/painting200.png",
+    "painting_title": "Mountain Range",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Indian Yellow', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 201,
+    "img_src": "https://www.twoinchbrush.com/images/painting201.png",
+    "painting_title": "Lonely Retreat",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 202,
+    "img_src": "https://www.twoinchbrush.com/images/painting202.png",
+    "painting_title": "Northern Lights",
+    "num_colors": 9,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 177,
+    "img_src": "https://www.twoinchbrush.com/images/painting177.png",
+    "painting_title": "Winter Evergreens",
+    "num_colors": 9,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 178,
+    "img_src": "https://www.twoinchbrush.com/images/painting178.png",
+    "painting_title": "Surf's Up",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 179,
+    "img_src": "https://www.twoinchbrush.com/images/painting179.png",
+    "painting_title": "Red Sunset",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 180,
+    "img_src": "https://www.twoinchbrush.com/images/painting180.png",
+    "painting_title": "Meadow Road",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 181,
+    "img_src": "https://www.twoinchbrush.com/images/painting181.png",
+    "painting_title": "Winter Oval",
+    "num_colors": 7,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 182,
+    "img_src": "https://www.twoinchbrush.com/images/painting182.png",
+    "painting_title": "Secluded Beach",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 183,
+    "img_src": "https://www.twoinchbrush.com/images/painting183.png",
+    "painting_title": "Forest Hills",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 184,
+    "img_src": "https://www.twoinchbrush.com/images/painting184.png",
+    "painting_title": "Little House by the Road",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 185,
+    "img_src": "https://www.twoinchbrush.com/images/painting185.png",
+    "painting_title": "Mountain Path",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 186,
+    "img_src": "https://www.twoinchbrush.com/images/painting186.png",
+    "painting_title": "Country Charm",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 187,
+    "img_src": "https://www.twoinchbrush.com/images/painting187.png",
+    "painting_title": "Nature's Paradise",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 188,
+    "img_src": "https://www.twoinchbrush.com/images/painting188.png",
+    "painting_title": "Mountain by the Sea",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 189,
+    "img_src": "https://www.twoinchbrush.com/images/painting189.png",
+    "painting_title": "Mountain Hideaway",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 163,
+    "img_src": "https://www.twoinchbrush.com/images/painting163.png",
+    "painting_title": "Towering Peaks",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 164,
+    "img_src": "https://www.twoinchbrush.com/images/painting164.png",
+    "painting_title": "Cabin at Sunset",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 165,
+    "img_src": "https://www.twoinchbrush.com/images/painting165.png",
+    "painting_title": "Twin Falls",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 166,
+    "img_src": "https://www.twoinchbrush.com/images/painting166.png",
+    "painting_title": "Secluded Bridge",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 167,
+    "img_src": "https://www.twoinchbrush.com/images/painting167.png",
+    "painting_title": "Ocean Breeze",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 168,
+    "img_src": "https://www.twoinchbrush.com/images/painting168.png",
+    "painting_title": "Autumn Woods",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 170,
+    "img_src": "https://www.twoinchbrush.com/images/painting170.png",
+    "painting_title": "Winter Solitude",
+    "num_colors": 7,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 171,
+    "img_src": "https://www.twoinchbrush.com/images/painting171.png",
+    "painting_title": "Golden Sunset",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 172,
+    "img_src": "https://www.twoinchbrush.com/images/painting172.png",
+    "painting_title": "Mountain Oval",
+    "num_colors": 11,
+    "colors": "['Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 173,
+    "img_src": "https://www.twoinchbrush.com/images/painting173.png",
+    "painting_title": "Ocean Sunset",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 174,
+    "img_src": "https://www.twoinchbrush.com/images/painting174.png",
+    "painting_title": "Triple View",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 175,
+    "img_src": "https://www.twoinchbrush.com/images/painting175.png",
+    "painting_title": "Winter Frost",
+    "num_colors": 9,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 176,
+    "img_src": "https://www.twoinchbrush.com/images/painting176.png",
+    "painting_title": "Lakeside Cabin",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 150,
+    "img_src": "https://www.twoinchbrush.com/images/painting150.png",
+    "painting_title": "Mountain Stream",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 151,
+    "img_src": "https://www.twoinchbrush.com/images/painting151.png",
+    "painting_title": "Country Cabin",
+    "num_colors": 7,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 152,
+    "img_src": "https://www.twoinchbrush.com/images/painting152.png",
+    "painting_title": "Daisy Delight",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Cadmium Yellow', 'Dark Sienna', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 153,
+    "img_src": "https://www.twoinchbrush.com/images/painting153.png",
+    "painting_title": "Hidden Stream",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 154,
+    "img_src": "https://www.twoinchbrush.com/images/painting154.png",
+    "painting_title": "Towering Glacier",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 155,
+    "img_src": "https://www.twoinchbrush.com/images/painting155.png",
+    "painting_title": "Oval Barn",
+    "num_colors": 6,
+    "colors": "['Bright Red', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 156,
+    "img_src": "https://www.twoinchbrush.com/images/painting156.png",
+    "painting_title": "Lakeside Path",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 157,
+    "img_src": "https://www.twoinchbrush.com/images/painting157.png",
+    "painting_title": "Sunset Oval",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 158,
+    "img_src": "https://www.twoinchbrush.com/images/painting158.png",
+    "painting_title": "Winter Barn",
+    "num_colors": 6,
+    "colors": "['Alizarin Crimson', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 159,
+    "img_src": "https://www.twoinchbrush.com/images/painting159.png",
+    "painting_title": "Sunset over the Waves",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 160,
+    "img_src": "https://www.twoinchbrush.com/images/painting160.png",
+    "painting_title": "Golden Glow",
+    "num_colors": 8,
+    "colors": "['Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Clear', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 161,
+    "img_src": "https://www.twoinchbrush.com/images/painting161.png",
+    "painting_title": "Roadside Barn",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 162,
+    "img_src": "https://www.twoinchbrush.com/images/painting162.png",
+    "painting_title": "Happy Accident",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 137,
+    "img_src": "https://www.twoinchbrush.com/images/painting137.png",
+    "painting_title": "Golden Knoll",
+    "num_colors": 7,
+    "colors": "['Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 138,
+    "img_src": "https://www.twoinchbrush.com/images/painting138.png",
+    "painting_title": "Mountain Reflections",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 139,
+    "img_src": "https://www.twoinchbrush.com/images/painting139.png",
+    "painting_title": "Secluded Mountain",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 140,
+    "img_src": "https://www.twoinchbrush.com/images/painting140.png",
+    "painting_title": "Bright Autumn Trees",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Black', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 141,
+    "img_src": "https://www.twoinchbrush.com/images/painting141.png",
+    "painting_title": "Black Seascape",
+    "num_colors": 9,
+    "colors": "['Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 142,
+    "img_src": "https://www.twoinchbrush.com/images/painting142.png",
+    "painting_title": "Steep Mountains",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 143,
+    "img_src": "https://www.twoinchbrush.com/images/painting143.png",
+    "painting_title": "Quiet Mountains River",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 144,
+    "img_src": "https://www.twoinchbrush.com/images/painting144.png",
+    "painting_title": "Evening Waterfall",
+    "num_colors": 11,
+    "colors": "['Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 145,
+    "img_src": "https://www.twoinchbrush.com/images/painting145.png",
+    "painting_title": "Tropical Seascape",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 146,
+    "img_src": "https://www.twoinchbrush.com/images/painting146.png",
+    "painting_title": "Mountain at Sunset",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 147,
+    "img_src": "https://www.twoinchbrush.com/images/painting147.png",
+    "painting_title": "Soft Mountain Glow",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 148,
+    "img_src": "https://www.twoinchbrush.com/images/painting148.png",
+    "painting_title": "Mountain in an Oval",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 149,
+    "img_src": "https://www.twoinchbrush.com/images/painting149.png",
+    "painting_title": "Winter Mountain",
+    "num_colors": 7,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 124,
+    "img_src": "https://www.twoinchbrush.com/images/painting124.png",
+    "painting_title": "Rolling Hills",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 125,
+    "img_src": "https://www.twoinchbrush.com/images/painting125.png",
+    "painting_title": "Frozen Solitude",
+    "num_colors": 5,
+    "colors": "['Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 126,
+    "img_src": "https://www.twoinchbrush.com/images/painting126.png",
+    "painting_title": "Meadow Brook",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 127,
+    "img_src": "https://www.twoinchbrush.com/images/painting127.png",
+    "painting_title": "Evening at Sunset",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 128,
+    "img_src": "https://www.twoinchbrush.com/images/painting128.png",
+    "painting_title": "Mountain View",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 129,
+    "img_src": "https://www.twoinchbrush.com/images/painting129.png",
+    "painting_title": "Hidden Creek",
+    "num_colors": 10,
+    "colors": "['Black Gesso', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 130,
+    "img_src": "https://www.twoinchbrush.com/images/painting130.png",
+    "painting_title": "Peaceful Haven",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 131,
+    "img_src": "https://www.twoinchbrush.com/images/painting131.png",
+    "painting_title": "Mountain Exhibition",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 132,
+    "img_src": "https://www.twoinchbrush.com/images/painting132.png",
+    "painting_title": "Emerald Waters",
+    "num_colors": 9,
+    "colors": "['Black Gesso', 'Cadmium Yellow', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 133,
+    "img_src": "https://www.twoinchbrush.com/images/painting133.png",
+    "painting_title": "Mountain Summit",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 134,
+    "img_src": "https://www.twoinchbrush.com/images/painting134.png",
+    "painting_title": "Cabin Hideaway",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 135,
+    "img_src": "https://www.twoinchbrush.com/images/painting135.png",
+    "painting_title": "Oval Essence",
+    "num_colors": 8,
+    "colors": "['Alizarin Crimson', 'Cadmium Yellow', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 136,
+    "img_src": "https://www.twoinchbrush.com/images/painting136.png",
+    "painting_title": "Lost Lake",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 111,
+    "img_src": "https://www.twoinchbrush.com/images/painting111.png",
+    "painting_title": "Distant Mountains",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 112,
+    "img_src": "https://www.twoinchbrush.com/images/painting112.png",
+    "painting_title": "Meadow Brook Surprise",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 113,
+    "img_src": "https://www.twoinchbrush.com/images/painting113.png",
+    "painting_title": "Mountain Moonlight Oval",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 114,
+    "img_src": "https://www.twoinchbrush.com/images/painting114.png",
+    "painting_title": "Snowy Solitude",
+    "num_colors": 7,
+    "colors": "['Alizarin Crimson', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 115,
+    "img_src": "https://www.twoinchbrush.com/images/painting115.png",
+    "painting_title": "Mountain River",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 116,
+    "img_src": "https://www.twoinchbrush.com/images/painting116.png",
+    "painting_title": "Graceful Mountains",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 117,
+    "img_src": "https://www.twoinchbrush.com/images/painting117.png",
+    "painting_title": "Windy Waves",
+    "num_colors": 14,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Black', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 118,
+    "img_src": "https://www.twoinchbrush.com/images/painting118.png",
+    "painting_title": "On a Clear Day",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 119,
+    "img_src": "https://www.twoinchbrush.com/images/painting119.png",
+    "painting_title": "Riverside Escape Oval",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 120,
+    "img_src": "https://www.twoinchbrush.com/images/painting120.png",
+    "painting_title": "Surprising Falls",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 121,
+    "img_src": "https://www.twoinchbrush.com/images/painting121.png",
+    "painting_title": "Shadow Pond",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 122,
+    "img_src": "https://www.twoinchbrush.com/images/painting122.png",
+    "painting_title": "Misty Forest Oval",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 123,
+    "img_src": "https://www.twoinchbrush.com/images/painting123.png",
+    "painting_title": "Natural Wonder",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 98,
+    "img_src": "https://www.twoinchbrush.com/images/painting98.png",
+    "painting_title": "Splendor of Winter",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 99,
+    "img_src": "https://www.twoinchbrush.com/images/painting99.png",
+    "painting_title": "Colors of Nature",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 100,
+    "img_src": "https://www.twoinchbrush.com/images/painting100.png",
+    "painting_title": "Grandpa's Barn",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 101,
+    "img_src": "https://www.twoinchbrush.com/images/painting101.png",
+    "painting_title": "Peaceful Reflections",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 102,
+    "img_src": "https://www.twoinchbrush.com/images/painting102.png",
+    "painting_title": "Hidden Winter Moon Oval",
+    "num_colors": 8,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 103,
+    "img_src": "https://www.twoinchbrush.com/images/painting103.png",
+    "painting_title": "Waves of Wonder",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 104,
+    "img_src": "https://www.twoinchbrush.com/images/painting104.png",
+    "painting_title": "Cabin by the Pond",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 105,
+    "img_src": "https://www.twoinchbrush.com/images/painting105.png",
+    "painting_title": "Fall Stream",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 106,
+    "img_src": "https://www.twoinchbrush.com/images/painting106.png",
+    "painting_title": "Christmas Eve Snow",
+    "num_colors": 9,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Cadmium Yellow', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 107,
+    "img_src": "https://www.twoinchbrush.com/images/painting107.png",
+    "painting_title": "Forest Down Oval",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 108,
+    "img_src": "https://www.twoinchbrush.com/images/painting108.png",
+    "painting_title": "Pathway to Autumn",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 109,
+    "img_src": "https://www.twoinchbrush.com/images/painting109.png",
+    "painting_title": "Deep Forest Lake",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 110,
+    "img_src": "https://www.twoinchbrush.com/images/painting110.png",
+    "painting_title": "Peaks of Majesty",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 84,
+    "img_src": "https://www.twoinchbrush.com/images/painting84.png",
+    "painting_title": "Two Seasons",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 85,
+    "img_src": "https://www.twoinchbrush.com/images/painting85.png",
+    "painting_title": "Nestled Cabin",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 86,
+    "img_src": "https://www.twoinchbrush.com/images/painting86.png",
+    "painting_title": "Wintertime Discovery",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 87,
+    "img_src": "https://www.twoinchbrush.com/images/painting87.png",
+    "painting_title": "Mountain Mirage Wood Shape",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 88,
+    "img_src": "https://www.twoinchbrush.com/images/painting88.png",
+    "painting_title": "Double Oval Fantasy",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 89,
+    "img_src": "https://www.twoinchbrush.com/images/painting89.png",
+    "painting_title": "Contemplative Lady",
+    "num_colors": 1,
+    "colors": "['Van Dyke Brown']"
+  },
+  {
+    "painting_index": 90,
+    "img_src": "https://www.twoinchbrush.com/images/painting90.png",
+    "painting_title": "Deep Woods",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 91,
+    "img_src": "https://www.twoinchbrush.com/images/painting91.png",
+    "painting_title": "High Tide",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 93,
+    "img_src": "https://www.twoinchbrush.com/images/painting93.png",
+    "painting_title": "Barn in Snow Oval",
+    "num_colors": 7,
+    "colors": "['Alizarin Crimson', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 94,
+    "img_src": "https://www.twoinchbrush.com/images/painting94.png",
+    "painting_title": "That Time of Year",
+    "num_colors": 9,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 95,
+    "img_src": "https://www.twoinchbrush.com/images/painting95.png",
+    "painting_title": "Waterfall Wonder",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 96,
+    "img_src": "https://www.twoinchbrush.com/images/painting96.png",
+    "painting_title": "Mighty Mountain Lake",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 97,
+    "img_src": "https://www.twoinchbrush.com/images/painting97.png",
+    "painting_title": "Wooded Stream Oval",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 71,
+    "img_src": "https://www.twoinchbrush.com/images/painting71.png",
+    "painting_title": "Golden Mist Oval",
+    "num_colors": 9,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 72,
+    "img_src": "https://www.twoinchbrush.com/images/painting72.png",
+    "painting_title": "The Old Home Place",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 73,
+    "img_src": "https://www.twoinchbrush.com/images/painting73.png",
+    "painting_title": "Soothing Vista",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 74,
+    "img_src": "https://www.twoinchbrush.com/images/painting74.png",
+    "painting_title": "Stormy Seas",
+    "num_colors": 9,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 75,
+    "img_src": "https://www.twoinchbrush.com/images/painting75.png",
+    "painting_title": "Country Time",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 76,
+    "img_src": "https://www.twoinchbrush.com/images/painting76.png",
+    "painting_title": "A Mild Winter's Day",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 77,
+    "img_src": "https://www.twoinchbrush.com/images/painting77.png",
+    "painting_title": "Spectacular Waterfall",
+    "num_colors": 15,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 78,
+    "img_src": "https://www.twoinchbrush.com/images/painting78.png",
+    "painting_title": "View from the Park",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 79,
+    "img_src": "https://www.twoinchbrush.com/images/painting79.png",
+    "painting_title": "Lake View",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 80,
+    "img_src": "https://www.twoinchbrush.com/images/painting80.png",
+    "painting_title": "Old Country Mill",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 81,
+    "img_src": "https://www.twoinchbrush.com/images/painting81.png",
+    "painting_title": "Morning Walk",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 82,
+    "img_src": "https://www.twoinchbrush.com/images/painting82.png",
+    "painting_title": "Nature's Splendor",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 83,
+    "img_src": "https://www.twoinchbrush.com/images/painting83.png",
+    "painting_title": "Mountain Beauty",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 58,
+    "img_src": "https://www.twoinchbrush.com/images/painting58.png",
+    "painting_title": "Half-Oval Vignette",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 59,
+    "img_src": "https://www.twoinchbrush.com/images/painting59.png",
+    "painting_title": "Absolutely Autumn",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 60,
+    "img_src": "https://www.twoinchbrush.com/images/painting60.png",
+    "painting_title": "Mountain Seclusion",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Cadmium Yellow', 'Dark Sienna', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 61,
+    "img_src": "https://www.twoinchbrush.com/images/painting61.png",
+    "painting_title": "Crimson Oval",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 62,
+    "img_src": "https://www.twoinchbrush.com/images/painting62.png",
+    "painting_title": "Autumn Exhibition",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 63,
+    "img_src": "https://www.twoinchbrush.com/images/painting63.png",
+    "painting_title": "Majestic Peaks",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 64,
+    "img_src": "https://www.twoinchbrush.com/images/painting64.png",
+    "painting_title": "Golden Morning Mist",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 65,
+    "img_src": "https://www.twoinchbrush.com/images/painting65.png",
+    "painting_title": "Winter Lace",
+    "num_colors": 8,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 66,
+    "img_src": "https://www.twoinchbrush.com/images/painting66.png",
+    "painting_title": "Seascape Fantasy",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 67,
+    "img_src": "https://www.twoinchbrush.com/images/painting67.png",
+    "painting_title": "Double Oval Stream",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Black', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 68,
+    "img_src": "https://www.twoinchbrush.com/images/painting68.png",
+    "painting_title": "Enchanted Forest",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 69,
+    "img_src": "https://www.twoinchbrush.com/images/painting69.png",
+    "painting_title": "Southwest Serenity",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 70,
+    "img_src": "https://www.twoinchbrush.com/images/painting70.png",
+    "painting_title": "Rippling Waters",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Black', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 44,
+    "img_src": "https://www.twoinchbrush.com/images/painting44.png",
+    "painting_title": "Snowfall Magic",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 45,
+    "img_src": "https://www.twoinchbrush.com/images/painting45.png",
+    "painting_title": "Quiet Mountain Lake",
+    "num_colors": 14,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 46,
+    "img_src": "https://www.twoinchbrush.com/images/painting46.png",
+    "painting_title": "Final Embers of Sunlight",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 47,
+    "img_src": "https://www.twoinchbrush.com/images/painting47.png",
+    "painting_title": "Snowy Morn",
+    "num_colors": 7,
+    "colors": "['Alizarin Crimson', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 48,
+    "img_src": "https://www.twoinchbrush.com/images/painting48.png",
+    "painting_title": "Camper's Haven",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 49,
+    "img_src": "https://www.twoinchbrush.com/images/painting49.png",
+    "painting_title": "Waterfall in the Woods",
+    "num_colors": 14,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 50,
+    "img_src": "https://www.twoinchbrush.com/images/painting50.png",
+    "painting_title": "Covered Bridge Oval",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 51,
+    "img_src": "https://www.twoinchbrush.com/images/painting51.png",
+    "painting_title": "Scenic Seclusion",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 52,
+    "img_src": "https://www.twoinchbrush.com/images/painting52.png",
+    "painting_title": "Ebb Tide",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 53,
+    "img_src": "https://www.twoinchbrush.com/images/painting53.png",
+    "painting_title": "After the Rain",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 54,
+    "img_src": "https://www.twoinchbrush.com/images/painting54.png",
+    "painting_title": "Winter Elegance",
+    "num_colors": 9,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 56,
+    "img_src": "https://www.twoinchbrush.com/images/painting56.png",
+    "painting_title": "Evening's Peace",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Cadmium Yellow', 'Dark Sienna', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 57,
+    "img_src": "https://www.twoinchbrush.com/images/painting57.png",
+    "painting_title": "Valley of Tranquility",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 31,
+    "img_src": "https://www.twoinchbrush.com/images/painting31.png",
+    "painting_title": "Mystic Mountain",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 32,
+    "img_src": "https://www.twoinchbrush.com/images/painting32.png",
+    "painting_title": "New Day's Dawn",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 33,
+    "img_src": "https://www.twoinchbrush.com/images/painting33.png",
+    "painting_title": "Winter in Pastel",
+    "num_colors": 9,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 34,
+    "img_src": "https://www.twoinchbrush.com/images/painting34.png",
+    "painting_title": "Hazy Day",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 35,
+    "img_src": "https://www.twoinchbrush.com/images/painting35.png",
+    "painting_title": "Divine Elegance",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 36,
+    "img_src": "https://www.twoinchbrush.com/images/painting36.png",
+    "painting_title": "Cliffside",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 37,
+    "img_src": "https://www.twoinchbrush.com/images/painting37.png",
+    "painting_title": "Autumn Fantasy",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 38,
+    "img_src": "https://www.twoinchbrush.com/images/painting38.png",
+    "painting_title": "The Old Oak Tree",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 39,
+    "img_src": "https://www.twoinchbrush.com/images/painting39.png",
+    "painting_title": "Winter Paradise",
+    "num_colors": 6,
+    "colors": "['Alizarin Crimson', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Titanium White']"
+  },
+  {
+    "painting_index": 40,
+    "img_src": "https://www.twoinchbrush.com/images/painting40.png",
+    "painting_title": "Days Gone By",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 41,
+    "img_src": "https://www.twoinchbrush.com/images/painting41.png",
+    "painting_title": "Change of Seasons",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 42,
+    "img_src": "https://www.twoinchbrush.com/images/painting42.png",
+    "painting_title": "Hidden Delight",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 43,
+    "img_src": "https://www.twoinchbrush.com/images/painting43.png",
+    "painting_title": "Double Take",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 17,
+    "img_src": "https://www.twoinchbrush.com/images/painting17.png",
+    "painting_title": "Valley View",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 18,
+    "img_src": "https://www.twoinchbrush.com/images/painting18.png",
+    "painting_title": "Tranquil Dawn",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 19,
+    "img_src": "https://www.twoinchbrush.com/images/painting19.png",
+    "painting_title": "Royal Majesty",
+    "num_colors": 14,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 20,
+    "img_src": "https://www.twoinchbrush.com/images/painting20.png",
+    "painting_title": "Serenity",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 21,
+    "img_src": "https://www.twoinchbrush.com/images/painting21.png",
+    "painting_title": "Cabin at Trails End",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 22,
+    "img_src": "https://www.twoinchbrush.com/images/painting22.png",
+    "painting_title": "Mountain Rhapsody",
+    "num_colors": 8,
+    "colors": "['Alizarin Crimson', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 23,
+    "img_src": "https://www.twoinchbrush.com/images/painting23.png",
+    "painting_title": "Wilderness Cabin",
+    "num_colors": 14,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 24,
+    "img_src": "https://www.twoinchbrush.com/images/painting24.png",
+    "painting_title": "By the Sea",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 25,
+    "img_src": "https://www.twoinchbrush.com/images/painting25.png",
+    "painting_title": "Indian Summer",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 27,
+    "img_src": "https://www.twoinchbrush.com/images/painting27.png",
+    "painting_title": "Blue Winter",
+    "num_colors": 3,
+    "colors": "['Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Titanium White']"
+  },
+  {
+    "painting_index": 28,
+    "img_src": "https://www.twoinchbrush.com/images/painting28.png",
+    "painting_title": "Desert Glow",
+    "num_colors": 9,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 29,
+    "img_src": "https://www.twoinchbrush.com/images/painting29.png",
+    "painting_title": "Lone Mountain",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 30,
+    "img_src": "https://www.twoinchbrush.com/images/painting30.png",
+    "painting_title": "Florida's Glory",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Cadmium Yellow', 'Dark Sienna', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 14,
+    "img_src": "https://www.twoinchbrush.com/images/painting14.png",
+    "painting_title": "Autumn Images",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Red', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 15,
+    "img_src": "https://www.twoinchbrush.com/images/painting15.png",
+    "painting_title": "Hint of Springtime",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 16,
+    "img_src": "https://www.twoinchbrush.com/images/painting16.png",
+    "painting_title": "Around the Bend",
+    "num_colors": 14,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 4,
+    "img_src": "https://www.twoinchbrush.com/images/painting4.png",
+    "painting_title": "Countryside Oval",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 5,
+    "img_src": "https://www.twoinchbrush.com/images/painting5.png",
+    "painting_title": "Russet Winter",
+    "num_colors": 9,
+    "colors": "['Alizarin Crimson', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 6,
+    "img_src": "https://www.twoinchbrush.com/images/painting6.png",
+    "painting_title": "Purple Haze",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 7,
+    "img_src": "https://www.twoinchbrush.com/images/painting7.png",
+    "painting_title": "Dimensions",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 8,
+    "img_src": "https://www.twoinchbrush.com/images/painting8.png",
+    "painting_title": "Deep Wilderness Home",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 9,
+    "img_src": "https://www.twoinchbrush.com/images/painting9.png",
+    "painting_title": "Haven in the Valley",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 10,
+    "img_src": "https://www.twoinchbrush.com/images/painting10.png",
+    "painting_title": "Wintertime Blues",
+    "num_colors": 7,
+    "colors": "['Alizarin Crimson', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 11,
+    "img_src": "https://www.twoinchbrush.com/images/painting11.png",
+    "painting_title": "Pastel Seascape",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 12,
+    "img_src": "https://www.twoinchbrush.com/images/painting12.png",
+    "painting_title": "Country Creek",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 13,
+    "img_src": "https://www.twoinchbrush.com/images/painting13.png",
+    "painting_title": "Silent Forest",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 295,
+    "img_src": "https://www.twoinchbrush.com/images/painting295.png",
+    "painting_title": "Frosty Winter Morn",
+    "num_colors": 8,
+    "colors": "['Alizarin Crimson', 'Cadmium Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 296,
+    "img_src": "https://www.twoinchbrush.com/images/painting296.png",
+    "painting_title": "Forest Edge",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 297,
+    "img_src": "https://www.twoinchbrush.com/images/painting297.png",
+    "painting_title": "Mountain Ridge Lake",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 298,
+    "img_src": "https://www.twoinchbrush.com/images/painting298.png",
+    "painting_title": "Reflections of Gold",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 299,
+    "img_src": "https://www.twoinchbrush.com/images/painting299.png",
+    "painting_title": "Quiet Cove",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 300,
+    "img_src": "https://www.twoinchbrush.com/images/painting300.png",
+    "painting_title": "Rivers Peace",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 301,
+    "img_src": "https://www.twoinchbrush.com/images/painting301.png",
+    "painting_title": "At Dawn's Light",
+    "num_colors": 9,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 302,
+    "img_src": "https://www.twoinchbrush.com/images/painting302.png",
+    "painting_title": "Valley Waterfall",
+    "num_colors": 15,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 303,
+    "img_src": "https://www.twoinchbrush.com/images/painting303.png",
+    "painting_title": "Toward Days End",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 304,
+    "img_src": "https://www.twoinchbrush.com/images/painting304.png",
+    "painting_title": "Falls in the Glen",
+    "num_colors": 14,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 305,
+    "img_src": "https://www.twoinchbrush.com/images/painting305.png",
+    "painting_title": "Frozen Beauty in Vignette",
+    "num_colors": 9,
+    "colors": "['Bright Red', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 306,
+    "img_src": "https://www.twoinchbrush.com/images/painting306.png",
+    "painting_title": "Crimson Tide",
+    "num_colors": 8,
+    "colors": "['Alizarin Crimson', 'Cadmium Yellow', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 307,
+    "img_src": "https://www.twoinchbrush.com/images/painting307.png",
+    "painting_title": "Winter Bliss",
+    "num_colors": 7,
+    "colors": "['Alizarin Crimson', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 308,
+    "img_src": "https://www.twoinchbrush.com/images/painting308.png",
+    "painting_title": "Gray Mountain",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 309,
+    "img_src": "https://www.twoinchbrush.com/images/painting309.png",
+    "painting_title": "Wayside Pond",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 310,
+    "img_src": "https://www.twoinchbrush.com/images/painting310.png",
+    "painting_title": "Teton Winter",
+    "num_colors": 6,
+    "colors": "['Alizarin Crimson', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White']"
+  },
+  {
+    "painting_index": 311,
+    "img_src": "https://www.twoinchbrush.com/images/painting311.png",
+    "painting_title": "Little Home in the Meadow",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Indian Yellow', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 312,
+    "img_src": "https://www.twoinchbrush.com/images/painting312.png",
+    "painting_title": "A Pretty Autumn Day",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Indian Yellow', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 313,
+    "img_src": "https://www.twoinchbrush.com/images/painting313.png",
+    "painting_title": "Mirrored Images",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 314,
+    "img_src": "https://www.twoinchbrush.com/images/painting314.png",
+    "painting_title": "Back-Country Path",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 315,
+    "img_src": "https://www.twoinchbrush.com/images/painting315.png",
+    "painting_title": "Graceful Waterfall",
+    "num_colors": 15,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 316,
+    "img_src": "https://www.twoinchbrush.com/images/painting316.png",
+    "painting_title": "Icy Lake",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 317,
+    "img_src": "https://www.twoinchbrush.com/images/painting317.png",
+    "painting_title": "Rowboat on the Beach",
+    "num_colors": 8,
+    "colors": "['Alizarin Crimson', 'Cadmium Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Sap Green', 'Titanium White', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 318,
+    "img_src": "https://www.twoinchbrush.com/images/painting318.png",
+    "painting_title": "Portrait of Winter",
+    "num_colors": 5,
+    "colors": "['Alizarin Crimson', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Titanium White']"
+  },
+  {
+    "painting_index": 319,
+    "img_src": "https://www.twoinchbrush.com/images/painting319.png",
+    "painting_title": "The Footbridge",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 320,
+    "img_src": "https://www.twoinchbrush.com/images/painting320.png",
+    "painting_title": "Snowbound Cabin",
+    "num_colors": 8,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White']"
+  },
+  {
+    "painting_index": 321,
+    "img_src": "https://www.twoinchbrush.com/images/painting321.png",
+    "painting_title": "Hide A Way Cove",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 322,
+    "img_src": "https://www.twoinchbrush.com/images/painting322.png",
+    "painting_title": "Enchanted Falls Oval",
+    "num_colors": 6,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Indian Yellow', 'Sap Green', 'Titanium White', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 323,
+    "img_src": "https://www.twoinchbrush.com/images/painting323.png",
+    "painting_title": "Not Quite Spring",
+    "num_colors": 9,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Cadmium Yellow', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 324,
+    "img_src": "https://www.twoinchbrush.com/images/painting324.png",
+    "painting_title": "Splashes of Autumn",
+    "num_colors": 14,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 325,
+    "img_src": "https://www.twoinchbrush.com/images/painting325.png",
+    "painting_title": "Summer in the Mountain",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 326,
+    "img_src": "https://www.twoinchbrush.com/images/painting326.png",
+    "painting_title": "Oriental Falls",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 327,
+    "img_src": "https://www.twoinchbrush.com/images/painting327.png",
+    "painting_title": "Autumn Palette",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 328,
+    "img_src": "https://www.twoinchbrush.com/images/painting328.png",
+    "painting_title": "Cypress Swamp",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 329,
+    "img_src": "https://www.twoinchbrush.com/images/painting329.png",
+    "painting_title": "Downstream View",
+    "num_colors": 14,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 330,
+    "img_src": "https://www.twoinchbrush.com/images/painting330.png",
+    "painting_title": "Just Before the Storm",
+    "num_colors": 8,
+    "colors": "['Alizarin Crimson', 'Cadmium Yellow', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 331,
+    "img_src": "https://www.twoinchbrush.com/images/painting331.png",
+    "painting_title": "Fisherman's Paradise",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 332,
+    "img_src": "https://www.twoinchbrush.com/images/painting332.png",
+    "painting_title": "Desert Hues",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 333,
+    "img_src": "https://www.twoinchbrush.com/images/painting333.png",
+    "painting_title": "The Property Line",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 334,
+    "img_src": "https://www.twoinchbrush.com/images/painting334.png",
+    "painting_title": "In the Stillness of Morning",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 335,
+    "img_src": "https://www.twoinchbrush.com/images/painting335.png",
+    "painting_title": "Delightful Meadow Home",
+    "num_colors": 9,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 336,
+    "img_src": "https://www.twoinchbrush.com/images/painting336.png",
+    "painting_title": "First Snow",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 337,
+    "img_src": "https://www.twoinchbrush.com/images/painting337.png",
+    "painting_title": "Lake in the Valley",
+    "num_colors": 15,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 338,
+    "img_src": "https://www.twoinchbrush.com/images/painting338.png",
+    "painting_title": "A Trace of Spring",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 339,
+    "img_src": "https://www.twoinchbrush.com/images/painting339.png",
+    "painting_title": "An Arctic Winter Day",
+    "num_colors": 6,
+    "colors": "['Alizarin Crimson', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 340,
+    "img_src": "https://www.twoinchbrush.com/images/painting340.png",
+    "painting_title": "Snow Birch",
+    "num_colors": 5,
+    "colors": "['Black Gesso', 'Indian Yellow', 'Phthalo Blue', 'Prussian Blue', 'Titanium White']"
+  },
+  {
+    "painting_index": 341,
+    "img_src": "https://www.twoinchbrush.com/images/painting341.png",
+    "painting_title": "Early Autumn",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 342,
+    "img_src": "https://www.twoinchbrush.com/images/painting342.png",
+    "painting_title": "Tranquil Wooded Stream",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 343,
+    "img_src": "https://www.twoinchbrush.com/images/painting343.png",
+    "painting_title": "Purple Mountain Range",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 344,
+    "img_src": "https://www.twoinchbrush.com/images/painting344.png",
+    "painting_title": "Storm's A Comin",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 345,
+    "img_src": "https://www.twoinchbrush.com/images/painting345.png",
+    "painting_title": "Sunset Aglow",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 346,
+    "img_src": "https://www.twoinchbrush.com/images/painting346.png",
+    "painting_title": "Evening at the Falls",
+    "num_colors": 7,
+    "colors": "['Black Gesso', 'Cadmium Yellow', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White']"
+  },
+  {
+    "painting_index": 347,
+    "img_src": "https://www.twoinchbrush.com/images/painting347.png",
+    "painting_title": "Twilight Beauty",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 348,
+    "img_src": "https://www.twoinchbrush.com/images/painting348.png",
+    "painting_title": "Angler's Haven",
+    "num_colors": 15,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Black', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 349,
+    "img_src": "https://www.twoinchbrush.com/images/painting349.png",
+    "painting_title": "Rustic Winter Woods",
+    "num_colors": 6,
+    "colors": "['Alizarin Crimson', 'Cadmium Yellow', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Sap Green', 'Titanium White']"
+  },
+  {
+    "painting_index": 350,
+    "img_src": "https://www.twoinchbrush.com/images/painting350.png",
+    "painting_title": "Wilderness Falls",
+    "num_colors": 15,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Black', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 351,
+    "img_src": "https://www.twoinchbrush.com/images/painting351.png",
+    "painting_title": "Winter at the Farm",
+    "num_colors": 7,
+    "colors": "['Alizarin Crimson', 'Dark Sienna', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 352,
+    "img_src": "https://www.twoinchbrush.com/images/painting352.png",
+    "painting_title": "Daisies at Dawn",
+    "num_colors": 8,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Sap Green', 'Titanium White', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 353,
+    "img_src": "https://www.twoinchbrush.com/images/painting353.png",
+    "painting_title": "A Spectacular View",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 354,
+    "img_src": "https://www.twoinchbrush.com/images/painting354.png",
+    "painting_title": "Daybreak",
+    "num_colors": 7,
+    "colors": "['Alizarin Crimson', 'Cadmium Yellow', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 355,
+    "img_src": "https://www.twoinchbrush.com/images/painting355.png",
+    "painting_title": "Island Paradise",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 356,
+    "img_src": "https://www.twoinchbrush.com/images/painting356.png",
+    "painting_title": "Sunlight in the Shadows",
+    "num_colors": 7,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 357,
+    "img_src": "https://www.twoinchbrush.com/images/painting357.png",
+    "painting_title": "Splendor of a Snowy Winter",
+    "num_colors": 9,
+    "colors": "['Alizarin Crimson', 'Dark Sienna', 'Liquid Black', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 358,
+    "img_src": "https://www.twoinchbrush.com/images/painting358.png",
+    "painting_title": "Forest River",
+    "num_colors": 14,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 359,
+    "img_src": "https://www.twoinchbrush.com/images/painting359.png",
+    "painting_title": "Golden Glow of Morning",
+    "num_colors": 9,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 360,
+    "img_src": "https://www.twoinchbrush.com/images/painting360.png",
+    "painting_title": "Fisherman's Trail",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 361,
+    "img_src": "https://www.twoinchbrush.com/images/painting361.png",
+    "painting_title": "A Warm Winter",
+    "num_colors": 9,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 362,
+    "img_src": "https://www.twoinchbrush.com/images/painting362.png",
+    "painting_title": "Under Pastel Skies",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 363,
+    "img_src": "https://www.twoinchbrush.com/images/painting363.png",
+    "painting_title": "Golden Rays of Sunshine",
+    "num_colors": 8,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Indian Yellow', 'Liquid Clear', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White']"
+  },
+  {
+    "painting_index": 364,
+    "img_src": "https://www.twoinchbrush.com/images/painting364.png",
+    "painting_title": "The Magic of Fall",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Indian Yellow', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 365,
+    "img_src": "https://www.twoinchbrush.com/images/painting365.png",
+    "painting_title": "Glacier Lake",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 366,
+    "img_src": "https://www.twoinchbrush.com/images/painting366.png",
+    "painting_title": "The Old Weathered Barn",
+    "num_colors": 9,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 367,
+    "img_src": "https://www.twoinchbrush.com/images/painting367.png",
+    "painting_title": "Deep Forest Falls",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 368,
+    "img_src": "https://www.twoinchbrush.com/images/painting368.png",
+    "painting_title": "Winter's Grace",
+    "num_colors": 4,
+    "colors": "['Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Titanium White']"
+  },
+  {
+    "painting_index": 369,
+    "img_src": "https://www.twoinchbrush.com/images/painting369.png",
+    "painting_title": "Splendor of Autumn",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 370,
+    "img_src": "https://www.twoinchbrush.com/images/painting370.png",
+    "painting_title": "Tranquil Seas",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Sap Green', 'Titanium White', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 371,
+    "img_src": "https://www.twoinchbrush.com/images/painting371.png",
+    "painting_title": "Mountain Serenity",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 372,
+    "img_src": "https://www.twoinchbrush.com/images/painting372.png",
+    "painting_title": "Home Before Nightfall",
+    "num_colors": 8,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 373,
+    "img_src": "https://www.twoinchbrush.com/images/painting373.png",
+    "painting_title": "Island in the Wilderness",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 374,
+    "img_src": "https://www.twoinchbrush.com/images/painting374.png",
+    "painting_title": "Autumn Oval",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 375,
+    "img_src": "https://www.twoinchbrush.com/images/painting375.png",
+    "painting_title": "Seasonal Progression",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 376,
+    "img_src": "https://www.twoinchbrush.com/images/painting376.png",
+    "painting_title": "Light at the Summit",
+    "num_colors": 14,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 377,
+    "img_src": "https://www.twoinchbrush.com/images/painting377.png",
+    "painting_title": "Countryside Barn",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 378,
+    "img_src": "https://www.twoinchbrush.com/images/painting378.png",
+    "painting_title": "Mountain Lake Falls",
+    "num_colors": 9,
+    "colors": "['Alizarin Crimson', 'Cadmium Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 379,
+    "img_src": "https://www.twoinchbrush.com/images/painting379.png",
+    "painting_title": "Cypress Creek",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 380,
+    "img_src": "https://www.twoinchbrush.com/images/painting380.png",
+    "painting_title": "Trapper's Cabin",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 381,
+    "img_src": "https://www.twoinchbrush.com/images/painting381.png",
+    "painting_title": "Storm on the Horizon",
+    "num_colors": 9,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 382,
+    "img_src": "https://www.twoinchbrush.com/images/painting382.png",
+    "painting_title": "Pot O' Posies",
+    "num_colors": 6,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Sap Green']"
+  },
+  {
+    "painting_index": 383,
+    "img_src": "https://www.twoinchbrush.com/images/painting383.png",
+    "painting_title": "A Perfect Winter Day",
+    "num_colors": 7,
+    "colors": "['Alizarin Crimson', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 384,
+    "img_src": "https://www.twoinchbrush.com/images/painting384.png",
+    "painting_title": "Aurora's Dance",
+    "num_colors": 9,
+    "colors": "['Alizarin Crimson', 'Dark Sienna', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 385,
+    "img_src": "https://www.twoinchbrush.com/images/painting385.png",
+    "painting_title": "Woodman's Retreat",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 386,
+    "img_src": "https://www.twoinchbrush.com/images/painting386.png",
+    "painting_title": "Babbling Brook",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 387,
+    "img_src": "https://www.twoinchbrush.com/images/painting387.png",
+    "painting_title": "Woodgrain View",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 388,
+    "img_src": "https://www.twoinchbrush.com/images/painting388.png",
+    "painting_title": "Winter's Peace",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 389,
+    "img_src": "https://www.twoinchbrush.com/images/painting389.png",
+    "painting_title": "Wilderness Trail",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 390,
+    "img_src": "https://www.twoinchbrush.com/images/painting390.png",
+    "painting_title": "A Copper Winter",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 391,
+    "img_src": "https://www.twoinchbrush.com/images/painting391.png",
+    "painting_title": "Misty Foothills",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 392,
+    "img_src": "https://www.twoinchbrush.com/images/painting392.png",
+    "painting_title": "Through the Window",
+    "num_colors": 7,
+    "colors": "['Alizarin Crimson', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 393,
+    "img_src": "https://www.twoinchbrush.com/images/painting393.png",
+    "painting_title": "Home in the Valley",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 394,
+    "img_src": "https://www.twoinchbrush.com/images/painting394.png",
+    "painting_title": "Mountains of Grace",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 395,
+    "img_src": "https://www.twoinchbrush.com/images/painting395.png",
+    "painting_title": "Seaside Harmony",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 396,
+    "img_src": "https://www.twoinchbrush.com/images/painting396.png",
+    "painting_title": "A Cold Spring Day",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 397,
+    "img_src": "https://www.twoinchbrush.com/images/painting397.png",
+    "painting_title": "Evening's Glow",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 398,
+    "img_src": "https://www.twoinchbrush.com/images/painting398.png",
+    "painting_title": "Blue Ridge Falls",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 399,
+    "img_src": "https://www.twoinchbrush.com/images/painting399.png",
+    "painting_title": "Reflections of Calm",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 400,
+    "img_src": "https://www.twoinchbrush.com/images/painting400.png",
+    "painting_title": "Before the Snowfall",
+    "num_colors": 7,
+    "colors": "['Alizarin Crimson', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 401,
+    "img_src": "https://www.twoinchbrush.com/images/painting401.png",
+    "painting_title": "Winding Stream",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Black', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 402,
+    "img_src": "https://www.twoinchbrush.com/images/painting402.png",
+    "painting_title": "Tranquility Cove",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 403,
+    "img_src": "https://www.twoinchbrush.com/images/painting403.png",
+    "painting_title": "Cabin in the Hollow",
+    "num_colors": 7,
+    "colors": "['Alizarin Crimson', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 404,
+    "img_src": "https://www.twoinchbrush.com/images/painting404.png",
+    "painting_title": "View from Clear Creek",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 405,
+    "img_src": "https://www.twoinchbrush.com/images/painting405.png",
+    "painting_title": "Bridge to Autumn",
+    "num_colors": 11,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 406,
+    "img_src": "https://www.twoinchbrush.com/images/painting406.png",
+    "painting_title": "Trail's End",
+    "num_colors": 10,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Dark Sienna', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 407,
+    "img_src": "https://www.twoinchbrush.com/images/painting407.png",
+    "painting_title": "Evergreen Valley",
+    "num_colors": 14,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Black', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 408,
+    "img_src": "https://www.twoinchbrush.com/images/painting408.png",
+    "painting_title": "Balmy Beach",
+    "num_colors": 13,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Liquid Clear', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Phthalo Green\\r\\n', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 409,
+    "img_src": "https://www.twoinchbrush.com/images/painting409.png",
+    "painting_title": "Lake at the Ridge",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  },
+  {
+    "painting_index": 410,
+    "img_src": "https://www.twoinchbrush.com/images/painting410.png",
+    "painting_title": "In the Midst of Winter",
+    "num_colors": 7,
+    "colors": "['Alizarin Crimson', 'Dark Sienna', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Prussian Blue', 'Titanium White', 'Van Dyke Brown']"
+  },
+  {
+    "painting_index": 411,
+    "img_src": "https://www.twoinchbrush.com/images/painting411.png",
+    "painting_title": "Wilderness Day",
+    "num_colors": 12,
+    "colors": "['Alizarin Crimson', 'Black Gesso', 'Bright Red', 'Cadmium Yellow', 'Dark Sienna', 'Indian Yellow', 'Midnight Black\\r\\n\\r\\n', 'Phthalo Blue', 'Sap Green', 'Titanium White', 'Van Dyke Brown', 'Yellow Ochre']"
+  }
+]

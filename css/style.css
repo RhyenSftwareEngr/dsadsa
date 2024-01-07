@@ -1,0 +1,248 @@
+/* Fonts */
+@font-face {
+    font-family: "Jost Regular";
+    font-weight: 400;
+    src: url(../assets/fonts/Jost/static/Jost-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Montserrat Regular";
+  font-weight: 400;
+  src: url(../assets/fonts/Montserrat/Montserrat-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Monoton Regular";
+    font-weight: 700;
+    src: url(../assets/fonts/Monoton/Monoton-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Gentium Regular";
+  font-weight: 700;
+  src: url(../assets/fonts/Gentium_Book_Plus/GentiumBookPlus-Regular.ttf);
+}
+
+/* Color Palette */
+:root {
+  --textDark: #0c0a08;
+  --textLight: #f9e5d7;
+  --background: #f9e5d7;
+  --primary: #4a3b30;
+  --secondary: #d7cac1;
+  --accent: #7b6251;
+  --gray: rgb(157 157 157 / 51%);
+  --arm-rotation: 0deg;
+}
+
+/* Reset Default Styles */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Character Styles */
+html {font-size: 100%; /* 16px */}
+
+h1 {font-size: 4.210rem; /* 67.36px */}
+
+h2 {font-size: 3.158rem; /* 50.56px */}
+
+h3 {font-size: 2.369rem; /* 37.92px */}
+
+h4 {font-size: 1.777rem; /* 28.48px */}
+
+h5 {font-size: 1.333rem; /* 21.28px */}
+
+p, a {font-size: 1.0rem; /* 16px */}
+
+small {font-size: 0.750rem; /* 12px */}
+
+h1, h2, h3, h4, h5 {
+    font-family: "Gentium Regular";
+    color: var(--textLight);
+}
+
+a {
+  
+    font-family: "Montserrat Regular";
+    text-decoration: none;
+    color: var(--textLight);
+}
+
+/* Global Styles */
+body {
+  background-color: var(--background);
+}
+
+.hero-container {
+    width: 100%;
+    height: 100vh;
+}
+
+body {
+	cursor: none;
+}
+
+.custom-cursor {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 999;
+	display: none;
+}
+
+.site-wide {
+	width: 3%;
+	height: 70%;
+}
+
+.trail {
+    position: absolute;
+    height: 3.6%; width: 1.8%;
+    border-radius: 3px;
+    background-image: url('../assets/cursor/paint_splash_smol_orange.png') ;
+  }
+
+header {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo-wrapper {
+    display: flex;
+    align-items: center;
+    padding: 0 1%;
+}
+
+.logo-wrapper > img {
+    height: 80%;
+    width: auto;
+}
+
+.logo-wrapper > h1 {
+    letter-spacing: 0.1em;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    padding: 0 1%;
+}
+
+nav > a {
+    padding: 0 20px;
+    font-size: 1.333rem
+}
+
+.sample-image-bg {
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    z-index: -100;
+}
+
+.bob-ross-wrapper {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  position: fixed;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.bob-ross-container {
+  height: 576px;
+  width: 1024px;
+  position: absolute;
+}
+
+#body {
+  height: inherit;
+  width: inherit;
+  position: absolute;
+}
+
+#canvas {
+  height: inherit;
+  width: inherit;
+  position: absolute;
+}
+
+#arm {
+  height: inherit;
+  width: inherit;
+  position: absolute;
+  transform-origin: 17.7083333333% 63.8888888889%;
+  /* transform: rotate(-180deg); */
+  transform: rotate(var(--arm-rotation));
+  /* transform: rotate(clamp(-25deg, var(--arm-rotation), 10deg)); */
+  z-index: 2;
+  transition: all linear;
+  pointer-events: none;
+}
+
+.canvas-text {
+  font-family: "Montserrat Regular";
+  color: var(--accent);
+  text-align: center;
+  transform: translateX(23.5%) translateY(160%) perspective(170px) 
+             rotateY(-8deg) rotateX(2deg) rotateZ(-1.7deg);
+  z-index: 10;
+}
+
+.canvas-text > a {
+  font-family: inherit;
+  font-size: inherit;
+  color: inherit;
+  z-index: 100;
+  transition: color .3s ease-in;
+}
+
+.canvas-text > a:hover {
+  color: var(--primary);
+  transition: color .3s ease-in;
+}
+
+/* #paintings {
+  transform: translateX(221%) translateY(19%) perspective(170px) 
+             rotateY(-10deg) rotateX(0deg) rotateZ(-0deg); 
+  height: 75%;
+  width: 27%;
+  content: var(--painting-url);
+  background-color: rebeccapurple;
+  opacity: 1;
+  z-index: 10;
+} */
+
+/* Keyframes */
+@keyframes fade-left {
+    from {
+        scale: 1;
+        translate: 0%;
+        opacity: 1;
+    }
+    
+    to {
+        scale: 0.8;
+        translate: -25%;
+        opacity: 0;
+    }
+}
+  
+@keyframes fade-right {
+    from {
+        scale: 1;
+        translate: 0%;
+        opacity: 1;
+    }
+    
+    to {
+        scale: 0.8;
+        translate: 25%;
+        opacity: 0;
+    }
+}

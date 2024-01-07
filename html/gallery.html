@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PPOH | Gallery</title>
+    <link rel="stylesheet" href="../css/gallery.css">
+  </head>
+  <body>
+    <header>
+      <div class="custom-cursor site-wide" style="background-image: url('../assets/cursor/paintbrush_smol_orange_2.png')">
+        <div class="pointer"></div>
+      </div>
+      <div class="logo-wrapper">
+        <img src="../assets/img/lettering row version.png" alt="Website Logo">
+    </div>
+      <div class="menu-btn"></div>
+      <div class="navigation">
+        <a href="../index.html">Home</a>
+        <a href="./stats.html">Statistics</a>
+        <a href="./gallery.html">Gallery</a>
+        <a href="./about.html">About</a>
+      </div>
+    </header>
+
+    <section class="main" id="main">
+      <div class="content">
+        <div class="animated-text">
+          <h3>Add your art!</h3>
+          <h3>Track it!</h3>
+          <h3>Never lose an art again!</h3>
+        </div>
+        <h2>Name of your art!</h2>
+        <input type="text" art_name>
+        <h2>Link your image!</h2>
+        <input tested type="file" accept="image/jpeg, image/png" img_src>
+        <h2>Colors Used! (Separate colors with a comma!)</h2>
+        <input type="text" colors_used>
+        <br>
+        <a href="#" class="btn" save_button>Save Your Work!</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section2" id="section2">
+      <div class="title reveal">
+        <h2 class="section-title">Gallery</h2>
+        <h3>- Featured Arts! -</h3>
+      </div>      
+
+      <div class="content-container">
+          <div class="featured-containter content-block">
+              <div class="featured-cards">
+                  <div class="card">
+                      <img class="card-front-image card-image card-one" id="front-card-one">
+                      <div class="card-faders">
+                          <img class="card-fader card-image card-one">
+                          <img class="card-fader card-image card-one">
+                          <img class="card-fader card-image card-one">
+                          <img class="card-fader card-image card-one">
+                          <img class="card-fader card-image card-one">
+                          <img class="card-fader card-image card-one">
+                          <img class="card-fader card-image card-one">
+                          <img class="card-fader card-image card-one">
+                      </div>
+                  </div>
+                  <div class="card">
+                      <img class="card-front-image card-image card-two" id="front-card-two">
+                      <div class="card-faders">
+                          <img class="card-fader card-image card-two">
+                          <img class="card-fader card-image card-two">
+                          <img class="card-fader card-image card-two">
+                          <img class="card-fader card-image card-two">
+                          <img class="card-fader card-image card-two">
+                          <img class="card-fader card-image card-two">
+                          <img class="card-fader card-image card-two">
+                          <img class="card-fader card-image card-two">
+                      </div>
+                  </div>
+                  <div class="card">
+                      <img class="card-front-image card-image card-three" id="front-card-three">
+                      <div class="card-faders">
+                          <img class="card-fader card-image card-three">
+                          <img class="card-fader card-image card-three">
+                          <img class="card-fader card-image card-three">
+                          <img class="card-fader card-image card-three">
+                          <img class="card-fader card-image card-three">
+                          <img class="card-fader card-image card-three">
+                          <img class="card-fader card-image card-three">
+                          <img class="card-fader card-image card-three">
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+
+      <div class="filter-container content-block reveal">
+        <div id="search-bar-container" class="animation">
+            <div class="search-bar-icon">
+                <svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 20 20">
+                    <path d="M10 18a7.952 7.952 0 0 0 4.897-1.688l4.396 4.396 1.414-1.414-4.396-4.396A7.952 7.952 0 0 0 18 10c0-4.411-3.589-8-8-8s-8 3.589-8 8 3.589 8 8 8zm0-14c3.309 0 6 2.691 6 6s-2.691 6-6 6-6-2.691-6-6 2.691-6 6-6z"></path>
+                </svg>
+            </div>
+            <input type="search" id="search-bar" placeholder="search paintings..." search-input>
+        </div>
+        <div class="search-output" search-output-container>
+            <template search-output-template>
+                <div class="output-card" output-card>
+                    <img output-img>
+                    <div class="output-info">
+                      <h3 output-label></h3>
+                      <h3>by Bob Ross</h3>
+                    </div>
+                </div> 
+            </template>
+        </div>
+        
+      </div>
+    </section>
+
+    <footer class="footer">
+      <span class="footer-title">Painted Piece of Heaven</span>
+      <p>Copyright &copy; <a href="#">2023 Gusto Ko Fries</a>. All Rights Reserved</p>
+    </footer>
+
+    <script src="../js/gallery.js" charset="utf-8"></script>
+    <script src="../js/cursor.js"></script>
+
+  </body>
+</html>
+      
